@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "fleet": "Fahrzeuge",
+    "prices": "Preise",
+    "terms": "AGB",
+    "contact": "Kontakt",
+    "bookNow": "Jetzt Buchen"
+  },
+  "hero": {
+    "eyebrow": "SPORTWAGENVERMIETUNG",
+    "title": "CLASSIC CAR RENT",
+    "subtitle": "Bei uns sind alle Autos ohne Kaution und ohne Kilometerbegrenzung",
+    "trust": {
+      "noDeposit": "Keine Kaution",
+      "unlimitedKm": "Ohne Kilometerbegrenzung",
+      "fullTank": "Voller Tank"
+    }
+  },
+  "intro": {
+    "eyebrow": "Der Oftringen Standard",
+    "titlePart1": "Classic Car Rent bedeutet viel mehr als nur",
+    "titlePart2": "Sportwagen mieten",
+    "p1": "Classic Car Rent bedeutet viel mehr als nur Sportwagen mieten: Wir vermieten pure Emotionen! Wir wissen, dass Fahrspaß aus viel mehr besteht als nur einem schönen Sportwagen. Es ist völlig egal, ob Sie bei uns einen Audi RS7 für ein Wochenende zu zweit mieten oder einen Lamborghini für einen ganz besonderen Anlass ausleihen. Gönnen Sie sich eine einmalige Ausfahrt mit einem BMW M5 oder erkunden die Autobahn mit einem Audi RS6. Holen Sie sich bei einer Ferrari Miete wahres Motorsportfeeling ins Haus oder genießen auf einer Fahrt im Mercedes AMG wahre deutsche Sportwagenkunst. Wer sein Traumauto fahren möchte, ist bei Classic Car Rent in jedem Fall bestens aufgehoben - Ganz egal, für welche Sportwagenmarke sein Herz schlägt.",
+    "p2": "Wer dagegen nicht selber einen Sportwagen oder ein Luxusauto mieten möchte, dafür aber anderen eine wahre Freude mit einer wirklich atemberaubenden Geschenkidee machen möchte, ist mit unseren Sportwagen Gutscheinen auf jeden Fall bestens beraten!"
+  }
+}

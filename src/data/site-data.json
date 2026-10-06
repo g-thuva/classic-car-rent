@@ -1,0 +1,15 @@
+{
+  "company": {
+    "name": "Classic Car Rent",
+    "address": "123 Vintage Lane, Motor City",
+    "phone": "+1 234 567 890",
+    "email": "info@classic-car-rent.com",
+    "hours": "Mon-Fri 9:00-18:00",
+    "socialLinks": {
+      "facebook": "#",
+      "instagram": "#",
+      "twitter": "#"
+    }
+  },
+  "cars": []
+}

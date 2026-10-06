@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "home": "Home",
+    "fleet": "Fleet",
+    "prices": "Prices",
+    "terms": "Terms & Conditions",
+    "contact": "Contact",
+    "bookNow": "Book now"
+  },
+  "hero": {
+    "eyebrow": "SPORTS CAR RENTAL",
+    "title": "CLASSIC CAR RENT",
+    "subtitle": "With us, all cars are without deposit and without mileage limit",
+    "trust": {
+      "noDeposit": "No deposit",
+      "unlimitedKm": "Unlimited mileage",
+      "fullTank": "Full tank"
+    }
+  },
+  "intro": {
+    "eyebrow": "The Oftringen Standard",
+    "titlePart1": "Classic Car Rent means much more than just",
+    "titlePart2": "renting sports cars",
+    "p1": "Classic Car Rent means much more than just renting sports cars: We rent pure emotions! We know that driving pleasure consists of much more than just a beautiful sports car. It doesn't matter whether you rent an Audi RS7 from us for a weekend for two or borrow a Lamborghini for a very special occasion. Treat yourself to a unique drive with a BMW M5 or explore the highway with an Audi RS6. Bring true motorsport feeling into your home with a Ferrari rental or enjoy true German sports car engineering on a drive in a Mercedes AMG. Anyone who wants to drive their dream car is in the best hands with Classic Car Rent - no matter which sports car brand your heart beats for.",
+    "p2": "On the other hand, if you don't want to rent a sports car or a luxury car yourself, but want to give others a real joy with a truly breathtaking gift idea, you are definitely well advised with our sports car vouchers!"
+  }
+}
