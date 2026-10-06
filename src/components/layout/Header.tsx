@@ -3,7 +3,7 @@ import { NavLink, Link, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { siteData } from '../../data/site';
 import { siteImages } from '../../data/images';
-import { Menu, X, Phone, Globe } from 'lucide-react';
+import { Menu, X, Phone } from 'lucide-react';
 
 const NAV_KEYS = [
   { key: 'nav.home', to: '/' },

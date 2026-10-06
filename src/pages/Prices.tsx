@@ -89,7 +89,7 @@ export const Prices = () => {
       <div className="relative h-[240px] md:h-[280px] bg-ink flex items-center pt-16 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/images/hero.jpg" 
+            src={`${import.meta.env.BASE_URL}images/hero.jpg`}
             alt="Hero Background" 
             className="w-full h-full object-cover object-center opacity-40"
             loading="eager"

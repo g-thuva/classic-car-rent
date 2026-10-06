@@ -24,6 +24,15 @@ This project provides a premium user experience to browse the supercar fleet, ch
 
 ## 🚀 Getting Started
 
+## GitHub Pages client preview
+
+The site is configured for `https://g-thuva.github.io/classic-car-rent/`.
+In the repository's **Settings → Pages**, select **GitHub Actions** as the source.
+Push to `main` to run `.github/workflows/deploy-pages.yml`, or run it manually from the Actions tab.
+Routes use hashes (for example, `/#/fleet`) so refreshing a page works on GitHub Pages.
+Booking submissions are currently a frontend demonstration and do not send or save requests.
+PDF documents are excluded from the published artifact.
+
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 

@@ -14,7 +14,7 @@
 
 /** Encode each path segment so folders/files containing spaces resolve correctly. */
 const asset = (path: string) =>
-  '/' +
+  import.meta.env.BASE_URL +
   path
     .split('/')
     .map((segment) => encodeURIComponent(segment))
