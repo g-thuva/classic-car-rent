@@ -1,34 +1,60 @@
-# React + TypeScript + Vite
+# Classic Car Rent 🏎️
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, high-performance web application for a luxury and sports car rental service based in Oftringen, Switzerland. 
 
-Currently, two official plugins are available:
+This project provides a premium user experience to browse the supercar fleet, check detailed rates, and request bookings. It features a bespoke responsive design powered by Tailwind CSS, smooth micro-animations using Framer Motion, and a highly polished UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **Premium Responsive Design:** Custom-tailored layouts and aesthetic tokens, with seamless support for desktop, tablet, and mobile devices.
+- **Multilingual Support:** Fully internationalized (i18n) for German and English languages.
+- **Interactive Fleet Browser:** Filter cars by brand, check specifications, and view high-quality image galleries.
+- **Dynamic Pricing & Rates:** Interactive pricing tables with duration filters (3h, 6h, 12h, 24h) and dynamic weekday vs. weekend rates.
+- **Fast & Optimized:** Built with Vite and React 19 for instantaneous hot-module replacement and lightning-fast production builds.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the Oxlint configuration
+- **Framework:** React 19 + TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS (v4)
+- **Routing:** React Router v7
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **Internationalization:** i18next + react-i18next
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 🚀 Getting Started
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/g-thuva/classic-car-rent.git
+   cd classic-car-rent
+   ```
+
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and visit `http://localhost:5173` to view the application.
+
+## 🏗️ Build for Production
+
+To create an optimized production build, run:
+```bash
+npm run build
 ```
+This will compile the TypeScript code and bundle the application into the `dist` folder.
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## 🤝 Contributing
 
-# classic-car-rent
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
